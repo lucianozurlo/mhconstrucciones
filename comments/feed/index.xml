@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en MH Construcciones	</title>
+	<atom:link href="http://localhost/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 26 Jan 2022 01:15:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>
+		Comentario en Speaker X Honey por admin		</title>
+		<link>./../../index.html?p=2642/#comment-31</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 27 Apr 2021 11:46:59 +0000</pubDate>
+		<guid isPermaLink="false">https://valiance.qodeinteractive.com/?post_type=product&#038;p=2642#comment-31</guid>
+
+					<description><![CDATA[dasda]]></description>
+			<content:encoded><![CDATA[<p>dasda</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Speaker X Gold por Ben Stinson		</title>
+		<link>./../../index.html?p=30/#comment-8</link>
+
+		<dc:creator><![CDATA[Ben Stinson]]></dc:creator>
+		<pubDate>Tue, 23 Feb 2021 08:56:56 +0000</pubDate>
+		<guid isPermaLink="false">https://valiance.qodeinteractive.com/?post_type=product&#038;p=30#comment-8</guid>
+
+					<description><![CDATA[It&#039;s a really nice product, would recommend!]]></description>
+			<content:encoded><![CDATA[<p>It&#8217;s a really nice product, would recommend!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
